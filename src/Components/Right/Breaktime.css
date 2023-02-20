@@ -1,0 +1,22 @@
+.break-time {
+  background-color: rgba(169, 169, 169, 0.191);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+.time {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 50%;
+  transition: 1s;
+}
+.time p {
+  position: absolute;
+  top: 26%;
+  left: 19%;
+}
+.time:hover {
+  background-color: blue;
+}

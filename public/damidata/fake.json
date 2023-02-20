@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Eating",
+    "time": "90m",
+    "picture": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/04/15/burger-rf-getty.jpg?quality=75&width=982&height=726&auto=webp",
+    "detail": "the act of a person or thing that eats."
+  },
+  {
+    "name": "Playing",
+    "time": "60m",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlWT21kzlPmhq8GMW7yrip2ioiePJIE0JMw&usqp=CAU",
+    "detail": "the act of taking part in a game or sport."
+  },
+  {
+    "name": "Studying",
+    "time": "190m",
+    "picture": "https://media.wired.com/photos/6340c6c2f93a1584dc57f353/master/pass/Tips-and-Apps-to-Help-Students-Gear-GettyImages-1132647177.jpg",
+    "detail": "devote time and attention to gaining knowledge of."
+  },
+  {
+    "name": "Sleeping",
+    "time": "200m",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMNfnWsDb1F3B8TtTBQDfg28fYVmm0l1eNQ&usqp=CAU",
+    "detail": "Stick to a sleep schedule ... Set aside no more than eight hours for sleep."
+  },
+  {
+    "name": "Sleeping",
+    "time": "200m",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMNfnWsDb1F3B8TtTBQDfg28fYVmm0l1eNQ&usqp=CAU",
+    "detail": "Stick to a sleep schedule ... Set aside no more than eight hours for sleep."
+  },
+  {
+    "name": "Sleeping",
+    "time": "200m",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMNfnWsDb1F3B8TtTBQDfg28fYVmm0l1eNQ&usqp=CAU",
+    "detail": "Stick to a sleep schedule ... Set aside no more than eight hours for sleep."
+  },
+  {
+    "name": "Sleeping",
+    "time": "200m",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMNfnWsDb1F3B8TtTBQDfg28fYVmm0l1eNQ&usqp=CAU",
+    "detail": "Stick to a sleep schedule ... Set aside no more than eight hours for sleep."
+  }
+]

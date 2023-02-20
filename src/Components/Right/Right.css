@@ -1,0 +1,30 @@
+.profile {
+  position: relative;
+}
+.profile-img {
+  height: 60px;
+  width: 60px;
+}
+.name {
+  position: absolute;
+  top: 20px;
+  left: 80px;
+}
+.profile-icon {
+  position: absolute;
+  top: 80%;
+  left: 31%;
+}
+.address {
+  position: absolute;
+  top: 74%;
+  left: 42%;
+}
+.personal-info {
+  background-color: rgba(169, 169, 169, 0.191);
+  border-radius: 5%;
+}
+.time-cal {
+  background-color: rgba(169, 169, 169, 0.191);
+  border-radius: 15px;
+}
